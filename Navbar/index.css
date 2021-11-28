@@ -1,0 +1,51 @@
+.imagen{
+    width: 60px;
+    height: 60px;
+    /*margin-top: 5px;
+    margin-left: 55px;*/
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 1px solid red;
+    background-color: black;
+    padding: 10px 80px;
+}
+
+nav{
+    /*margin-right: 85px;*/
+}
+
+.sobremi{
+    font-size: 25px;
+    font-style: italic;
+    text-decoration: none;
+    color: orange;
+    margin-left: 65px;
+}
+
+.discografia{
+    font-size: 25px;
+    font-style: italic;
+    text-decoration: none;
+    color: orange;
+    margin-left: 65px;
+}
+
+.bandas{
+    font-size: 25px;
+    font-style: italic;
+    text-decoration: none;
+    color: orange;
+    margin-left: 65px;
+}
+
+.setup{
+    font-size: 25px;
+    font-style: italic;
+    text-decoration: none;
+    color: orange;
+    margin-left: 65px;
+}
